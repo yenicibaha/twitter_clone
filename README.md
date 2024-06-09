@@ -37,5 +37,6 @@ npm install dotenv --save-dev
 id:
 
 MONGO = mongodb+srv://BurakEmreBaha:um2Y3AJnsOcRXAOT@twitter-cluster.s4img8f.mongodb.net/?retryWrites=true&w=majority&appName=twitter-cluster
+JWT=Burak23Emre000Baha511
 
 
