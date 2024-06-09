@@ -14,7 +14,7 @@ All tweets are displayed in a feed on the homepage, allowing users to see the la
 
 NPM PACKAGES
 -----------------
-You must paste these texts on the terminal for starting this project:
+You must paste these texts on the 'server' folder's terminal for starting this project:
 
 1)
 npm install
