@@ -32,11 +32,8 @@ npm install dotenv --save-dev
 
 .env
 ----------------
-.env file connects app to the database. So create a .env file in the 'server' folder and add the id in below into the .env file.
+.env file connects app to the database. So create a .env file in the 'server' folder and add the id below into the .env file.
 
-id:
 
-MONGO = mongodb+srv://BurakEmreBaha:um2Y3AJnsOcRXAOT@twitter-cluster.s4img8f.mongodb.net/?retryWrites=true&w=majority&appName=twitter-cluster
-JWT=Burak23Emre000Baha511
 
 
