@@ -32,7 +32,7 @@ npm install dotenv --save-dev
 
 .env
 ----------------
-.env file connects app to the database. So create a .env file in the 'server' folder and add the id into the .env file.
+Create a .env file in the 'server' folder and add the id into the .env file.
 
 
 
